@@ -105,6 +105,7 @@ public class MainActivity extends AppCompatActivity {
 
     /**
      * Determines the proper message given the users name and answers correct.
+     *
      * @param name of the user
      * @return message text for toast
      */
